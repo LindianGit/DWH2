@@ -1,3 +1,5 @@
+
+--1 
 USE externalDB2
 GO
 
